@@ -1,2 +1,5 @@
 print("Hello hello")
 print("VIETNAM")
+print("LAO")
+print("CAMPUCHIA")
+print("CHINA")
